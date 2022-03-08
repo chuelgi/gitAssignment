@@ -1,15 +1,15 @@
-The Polar Express; Castle Rock Entertainment; 2021
-Monsters, Inc; Pixar Animation Studios; 2001
-Dune; Legendary Pictures; 2021
-Koe no Katachi; Kyoto Animation; 2016
-Kimi no nawa; Comix Wave Films; 2016
-Sen to Chihiro no Kamikakushi; Studio Ghibli; 2001
-Harry Potter; Warner Bros. Pictures; 2005
-Mall Cop; Columbia Pictures; 2009
-Narnia; Walt Disney Pictures; 2005
-Batman; Warner Brothers; 2022
-Moonfall; Centropolis Entertainment; 2022
-Despicable Me; Illumination Entertainment Universal Pictures; 2010
+The Polar Express; Castle Rock Entertainment; 2021; Director 1
+Monsters, Inc; Pixar Animation Studios; 2001; Director 2
+Dune; Legendary Pictures; 2021; Director 3
+Koe no Katachi; Kyoto Animation; 2016; Director 4
+Kimi no nawa; Comix Wave Films; 2016 Director 5
+Sen to Chihiro no Kamikakushi; Studio Ghibli; 2001; Director 6
+Harry Potter; Warner Bros. Pictures; 2005; Director 7
+Mall Cop; Columbia Pictures; 2009; Director 8
+Narnia; Walt Disney Pictures; 2005; Director 9
+Batman; Warner Brothers; 2022; Director 10
+Moonfall; Centropolis Entertainment; 2022; Director 11
+Despicable Me; Illumination Entertainment Universal Pictures; 2010; Director 12
 
 
 
